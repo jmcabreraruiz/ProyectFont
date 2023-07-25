@@ -1,0 +1,111 @@
+@font-face {
+    font-family: 'EBCorp Black';
+    font-style: normal;
+    font-weight: normal;
+    src: local('EBCorp Black'), url('../font/EBCorp-Black.otf'); format('otf');
+    }
+    
+
+    @font-face {
+    font-family: 'EBCorp Black Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('EBCorp Black Italic'), url('../font/EBCorp-BlackOblique.otf'); format('otf');
+    }
+
+
+    @font-face {
+    font-family: 'EBCorp Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('EBCorp Bold'), url('../font/EBCorp-Bold.otf'); format('otf');
+    }
+    
+
+    @font-face {
+    font-family: 'EBCorp Bold Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('EBCorp Bold Italic'), url('../font/EBCorp-BoldOblique.otf'); format('otf');
+    }
+
+    
+    @font-face {
+    font-family: 'EBCorp Extrabold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('EBCorp Extrabold'), url('../font/EBCorp-ExtraBold.otf'); format('otf');
+    }
+    
+
+    @font-face {
+    font-family: 'EBCorp Extrabold Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('EBCorp Extrabold Italic'), url('../font/EBCorp-ExtraBoldOblique.otf'); format('otf');
+    }
+
+
+    @font-face {
+    font-family: 'EBCorp Light';
+    font-style: normal;
+    font-weight: normal;
+    src: local('EBCorp Light'), url('../font/EBCorp-Light.otf'); format('otf');
+    }
+    
+
+    @font-face {
+    font-family: 'EBCorp Light Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('EBCorp Light Italic'), url('../font/EBCorp-LightOblique.otf'); format('otf');
+    }
+
+
+    @font-face {
+    font-family: 'EBCorp Medium';
+    font-style: normal;
+    font-weight: normal;
+    src: local('EBCorp Medium'), url('../font/EBCorp-Medium.otf'); format('otf');
+    }
+    
+
+    @font-face {
+    font-family: 'EBCorp Medium Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('EBCorp Medium Italic'), url('../font/EBCorp-MediumOblique.otf'); format('otf');
+    }
+
+
+    @font-face {
+    font-family: 'EBCorp Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('EBCorp Regular'), url('../font/EBCorp-Regular.otf'); format('otf');
+    }
+    
+
+    @font-face {
+    font-family: 'EBCorp Regular Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('EBCorp Regular Italic'), url('../font/EBCorp-RegularOblique.otf'); format('otf');
+    }
+
+
+
+    @font-face {
+    font-family: 'EBCorp Semibold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('EBCorp Semibold'), url('../font/EBCorp-SemiBold.otf'); format('otf');
+    }
+    
+
+    @font-face {
+    font-family: 'EBCorp Semibold Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('EBCorp Semibold Italic'), url('../font/EBCorp-SemiBoldOblique.otf'); format('otf');
+    }
